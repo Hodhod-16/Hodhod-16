@@ -15,7 +15,7 @@ AI Engineering Student | Exploring Machine Learning
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hoda-ashraf/" target="_blank">
+  <a href="https://www.linkedin.com/in/hoda-ashraf-/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          alt="linkedin"
          width="40"
