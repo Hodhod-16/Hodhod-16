@@ -97,31 +97,15 @@ covering database structure and basic data management.
 
 <hr>
 
-<h2 align="center">Currently Learning</h2>
+<h2 align="center">Areas of Interest</h2>
 
 <p align="center">
-   Python for AI & Data Analysis
-  <br>
-   Machine Learning
-  <br>
-  Computer Vision
-  <br>
+  Machine Learning &nbsp; • &nbsp;
+  Computer Vision &nbsp; • &nbsp;
   Generative AI
   <br>
-  Data Analysis & Visualization
-</p>
-
-<hr>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hodhod-16&show_icons=true&theme=react&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hodhod-16&layout=compact&theme=react&hide_border=true" width="42%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hodhod-16&theme=react&hide_border=true" width="80%">
+  Data Analysis &nbsp; • &nbsp;
+  Robotics
 </p>
 
 <hr>
