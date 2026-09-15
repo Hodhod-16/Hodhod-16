@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoda Ashraf</h1>
 
 <h3 align="center">
-AI Engineering Student | Exploring Machine Learning, Computer Vision & Robotics
+AI Engineering Student | Exploring Machine Learning
 </h3>
 
 <p align="center">
