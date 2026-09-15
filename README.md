@@ -57,20 +57,19 @@ AI Engineering Student | Exploring Machine Learning
 
 <h3 align="left">Projects:</h3>
 
-- 🏠 <b>Egypt Real Estate Market Analysis</b>  
+-  <b>Egypt Real Estate Market Analysis</b>  
   Data analysis project using Python, SQL, and Power BI.  
   Analyzed more than 4,700 real estate listings and explored factors affecting prices and property characteristics.
 
-- 🤖 <b>Line Follower Robot</b>  
+-  <b>Line Follower Robot</b>  
   Arduino-based robotics project using an Arduino Uno, L298N motor driver, and IR sensors.
 
-- 🛵 <b>SwiftBite Delivery Database</b>  
+-  <b>SwiftBite Delivery Database</b>  
   SQL Server database project for a food delivery system.
 
 <h3 align="left">Currently Learning:</h3>
 
-- 🐍 Python for AI and Data Analysis
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 📊 Data Analysis and Visualization
-- 🔧 AI Engineering
+-  Python for AI and Data Analysis
+-  Machine Learning
+-  Data Analysis and Visualization
+-  AI Engineering
