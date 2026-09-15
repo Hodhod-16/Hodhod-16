@@ -71,32 +71,6 @@
 
 <hr>
 
-<h2 align="center">Projects</h2>
-
-<h3> Egypt Real Estate Market Analysis</h3>
-
-<p>
-A team data analysis project based on more than 4,700 real estate listings in Egypt.
-The project involved data exploration using Python, SQL, and Power BI.
-</p>
-
-
-<h3> Line Follower Robot</h3>
-
-<p>
-An Arduino-based robotics project using Arduino Uno, L298N motor driver,
-and IR sensors to detect and follow a line.
-</p>
-
-<h3> SwiftBite Delivery Database</h3>
-
-<p>
-A SQL Server database project designed for a food delivery system,
-covering database structure and basic data management.
-</p>
-
-<hr>
-
 <h2 align="center">Areas of Interest</h2>
 
 <p align="center">
