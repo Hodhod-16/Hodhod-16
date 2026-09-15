@@ -5,11 +5,11 @@ AI Engineering Student | Exploring Machine Learning
 </h3>
 
 <p align="center">
-  🎓 AI Engineering Student at Mansoura National University
+   AI Engineering Student 
 </p>
 
 <p align="center">
-  📫 <b>Email:</b> hodashrafn3w20@gmail.com
+   <b>Email:</b> hodashrafn3w20@gmail.com
 </p>
 
 <h3 align="left">Connect with me:</h3>
